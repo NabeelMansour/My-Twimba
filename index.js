@@ -119,7 +119,7 @@ function getFeedHtml() {
     </span>
     <div class="tweet-inner" >
     
-        <img src="./images/${tweet.profilePic}" class="profile-pic">
+        <img src="${tweet.profilePic}" class="profile-pic">
         <div>
             <p class="handle">${tweet.handle}</p>
             <p class="tweet-text">${tweet.tweetText}</p>
