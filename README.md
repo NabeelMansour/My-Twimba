@@ -1,3 +1,8 @@
+Hi there !
+
+I did this Scrimba project that is about a twitter tweet clone called Twimba. You go through the module that is instructor led and in the end of the module there stretch goals to enhance the learning and making the project your own.
+This is a really great learning experience and problem solving skills that you achieve from it. Thank you Scrimba!!!
+
 # codec40cc839af7798311aacb
 
 Quick start:
